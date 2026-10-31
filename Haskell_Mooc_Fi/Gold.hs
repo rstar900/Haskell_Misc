@@ -1,3 +1,5 @@
+-- From part 1.7 of the course (The Structure of a Haskell Program)
+
 -- There is one module per source file in Haskell
 module Gold where
 
